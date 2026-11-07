@@ -35,8 +35,4 @@ EduTrack, öğrencilerin haftalık ders içeriklerini, görevlerini ve ilerleme 
 3. Live Server eklentisi üzerinden uygulamayı çalıştırın.
 
 ## Geliştirme Durumu
-<<<<<<< HEAD
 İkinci hafta kapsamında temel arayüz, görev yönetimi, filtreleme, arama, tema değiştirme ve veri saklama özellikleri geliştirilmiş ve tarayıcıda test edilmiştir.
-=======
-İkinci hafta kapsamında temel arayüz, görev yönetimi, filtreleme, arama, tema değiştirme ve veri saklama özellikleri geliştirilmiş ve tarayıcıda test edilmiştir.
->>>>>>> origin/main
